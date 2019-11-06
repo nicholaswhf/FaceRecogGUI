@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O2 -DDLIB_JPEG_SUPPORT -Wall -Wextra  -rdynamic CMakeFiles/train.dir/train.cpp.o  -o train  -L/home/whf/dlib-19.16/build/dlib -Wl,-rpath,/home/whf/dlib-19.16/build/dlib -ldlib 

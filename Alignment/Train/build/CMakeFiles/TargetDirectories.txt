@@ -1,0 +1,3 @@
+/home/whf/桌面/faceR/Graduation-Project/FaceRecogGUI/Alignment/Train/build/CMakeFiles/edit_cache.dir
+/home/whf/桌面/faceR/Graduation-Project/FaceRecogGUI/Alignment/Train/build/CMakeFiles/rebuild_cache.dir
+/home/whf/桌面/faceR/Graduation-Project/FaceRecogGUI/Alignment/Train/build/CMakeFiles/train.dir
